@@ -22,7 +22,7 @@ for (let i = 0; i < navbarLinks.length; i++) {
   navbarLinks[i].addEventListener("click", navToggleFunc);
 }
 
-
+<a href="https://api.whatsapp.com/send?phone=+212761927660">
 
 /**
  * header active on scroll
